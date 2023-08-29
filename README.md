@@ -5,14 +5,14 @@
 
 Welcome to our casual research seminar organized in the [Department of Statistical Sciences](https://www.statistics.utoronto.ca) at the University of Toronto. Our aim is to explore the diverse research conducted by our faculty, students, and postdocs. Talks usually last 30 to 45 minutes, followed by discussions. We cover current research, overviews of emerging topics, and more. Some pizza will be offered before the seminar. 
 
-Seminar organizers: [Austin Brown](https://austindavidbrown.github.io) & [Archer Zhang](https://gozhang.github.io) & [Piotr Zwiernik](https://pzwiernik.github.io/) 
+Seminar organizers: [Austin Brown](https://austindavidbrown.github.io) & [Archer Gong Zhang](https://gozhang.github.io) & [Piotr Zwiernik](https://pzwiernik.github.io/) 
 
 ***
 
 
 ### Time & Location:
 
-**Tuesdays**, 12:30pm, room: 
+**Tuesdays**, 12:30pm, room: 9014 on Sep 20 (one time only), and 9199 for the remaining seminars
 
 ***
 
