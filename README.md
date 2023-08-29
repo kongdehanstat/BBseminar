@@ -16,7 +16,7 @@ Seminar organizers: [Austin Brown](https://austindavidbrown.github.io) & [Archer
 
 ***
 
-### Talks
+### Schedule of Talks for 2023/2024
 
 To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsheets/d/1jehHvf0QCG2Udc-gZsMIl6pLYsxyoAYFPcnJWDQhCUY/edit#gid=0).
 
