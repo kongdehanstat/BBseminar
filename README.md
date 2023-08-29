@@ -12,7 +12,7 @@ Seminar organizers: [Austin Brown](https://austindavidbrown.github.io) & [Archer
 
 ### Time & Location:
 
-**Tuesdays**, 12:30pm, room: TBD
+**Tuesdays**, 12:30pm, room: TBD (Test test test on the new page!)
 
 ***
 
