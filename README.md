@@ -22,7 +22,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-|20/9/23 |Austin Brown | How to utilize lower bounds on the convergence rates to tune Metropolis-Hastings algorithms to avoid poor empirical performance. | |
+|20/9/23 |[Austin Brown](https://austindavidbrown.github.io) | How to utilize lower bounds on the convergence rates to tune Metropolis-Hastings algorithms to avoid poor empirical performance. | |
 | | | | |
 | | | | |
 | | | | |
