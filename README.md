@@ -12,7 +12,8 @@ Seminar organizers: [Austin Brown](https://austindavidbrown.github.io) & [Archer
 
 ### Time & Location:
 
-**Tuesdays**, 12:30pm, room: TBD
+**Tuesdays**, 12:30pm, room: 9014
+(pizza will be served at 12:00pm)
 
 ***
 
@@ -22,7 +23,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-|20/9/23 |[Austin Brown](https://austindavidbrown.github.io) | How to utilize lower bounds on the convergence rates to tune Metropolis-Hastings algorithms to avoid poor empirical performance. | |
+|19/9/23 |[Austin Brown](https://austindavidbrown.github.io) | How to utilize lower bounds on the convergence rates to tune Metropolis-Hastings algorithms to avoid poor empirical performance. | |
 | | | | |
 | | | | |
 | | | | |
