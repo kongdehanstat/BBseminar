@@ -23,8 +23,8 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-|19/9/23 |[Austin Brown](https://austindavidbrown.github.io) | How to utilize lower bounds on the convergence rates to tune Metropolis-Hastings algorithms to avoid poor empirical performance. | |
-| | | | |
+| 19/9/23 | [Austin Brown](https://austindavidbrown.github.io) | How to utilize lower bounds on the convergence rates to tune Metropolis-Hastings algorithms to avoid poor empirical performance. | Internal speaker |
+| 25/9/23 | [Jing Dong](https://jingdong00.github.io/) | General Transformation for Consistent Online Approximation Algorithms | External speaker invited by [Qiang Sun](https://sites.google.com/view/qsun) |
 | | | | |
 | | | | |
 | | | | |
