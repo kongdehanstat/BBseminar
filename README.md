@@ -12,7 +12,7 @@ Seminar organizers: [Austin Brown](https://austindavidbrown.github.io) & [Archer
 
 ### Time & Location:
 
-**Tuesdays**, 12:30pm, room: 9014
+**Tuesdays** (<except the first two seminars on Monday>), 12:30pm, room: 9014
 (pizza will be served at 12:00pm)
 
 ***
