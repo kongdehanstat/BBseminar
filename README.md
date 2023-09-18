@@ -21,7 +21,8 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 |-|-|-|-|
 | 18/9/23 (M) | [Austin Brown](https://austindavidbrown.github.io) | How to utilize lower bounds on the convergence rates to tune Metropolis-Hastings algorithms to avoid poor empirical performance. | Internal speaker |
 | 25/9/23 (M) | [Jing Dong](https://jingdong00.github.io/) | General Transformation for Consistent Online Approximation Algorithms | External speaker invited by [Qiang Sun](https://sites.google.com/view/qsun) |
-| 3/10/23| [Luis Nieto-Barajas](https://gente.itam.mx/lnieto/index.html) |Spatio-temporal Pareto modelling of heavy-tail data | Luis is a visiting professor from ITAM-Mexico|
+| 3/10/23| [Qiang Sun](https://sites.google.com/view/qsun) |TBA | |
+| 7/10/23| [Luis Nieto-Barajas](https://gente.itam.mx/lnieto/index.html) |Spatio-temporal Pareto modelling of heavy-tail data | Luis is a visiting professor from ITAM-Mexico|
 | | | | |
 | | | | |
 
