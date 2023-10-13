@@ -12,7 +12,7 @@ Seminar organizers: [Austin Brown](https://austindavidbrown.github.io) & [Archer
 
 ### Schedule of Talks for 2023/2024
 
-Meetings are on **Tuesdays** (*except the first two seminars on Monday*), 12:30pm, room: 9014
+Meetings are on **Tuesdays**, 12:30pm (30 min talk + discussion), room: 9014
 (pizza will be served around 12:00pm)
 
 To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsheets/d/1jehHvf0QCG2Udc-gZsMIl6pLYsxyoAYFPcnJWDQhCUY/edit#gid=0).
