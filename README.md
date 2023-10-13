@@ -22,9 +22,14 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 | 18/9/23 (M) | [Austin Brown](https://austindavidbrown.github.io) | How to utilize lower bounds on the convergence rates to tune Metropolis-Hastings algorithms to avoid poor empirical performance. | Internal speaker |
 | 25/9/23 (M) | [Jing Dong](https://jingdong00.github.io/) | General Transformation for Consistent Online Approximation Algorithms | External speaker invited by [Qiang Sun](https://sites.google.com/view/qsun) |
 | 3/10/23| [Qiang Sun](https://sites.google.com/view/qsun) | From asymptotics to finite samples, and back again | Internal speaker |
-| 7/10/23| [Luis Nieto-Barajas](https://gente.itam.mx/lnieto/index.html) | Spatio-temporal Pareto modelling of heavy-tail data | Luis is a visiting professor from ITAM-Mexico |
-| | | | |
-| | | | |
+| 10/10/23| [Luis Nieto-Barajas](https://gente.itam.mx/lnieto/index.html) | Spatio-temporal Pareto modelling of heavy-tail data | Luis is a visiting professor from ITAM-Mexico |
+| 17/10/23|Vedant Choudhary | Generative modeling of financial time series data| |
+| 24/10/23|Wenlong Mou | TBA | |
+| 31/10/23|Emma Kroell |Optimal Robust Reinsurance with Multiple Insurers | |
+| 7/11/23|Liam Welsh |Nash Equilibria in Greenhouse Gas Offset Credit Markets | |
+| 14/11/23|[Krishna Balasubramanian](https://sites.google.com/view/kriznakumar/home) | | A guest from UC Davis|
+| 21/11/23| Josh Speagle | Nested Sampling and its Potential Role in Computational Bayesian Education| |
+| 28/11/23| | | |
 
 
 
