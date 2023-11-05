@@ -27,10 +27,10 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 | 24/10/23| [Wenlong Mou](https://mouwenlong.github.io/) | A decorrelation method for general regression adjustment | Internal speaker |
 | 31/10/23| [Emma Kroell](https://www.emmakroell.ca/) | Optimal Robust Reinsurance with Multiple Insurers | PhD student at DoSS |
 | 7/11/23| [Liam Welsh](https://www.statistics.utoronto.ca/people/directories/graduate-students/liam-welsh) | Nash Equilibria in Greenhouse Gas Offset Credit Markets | PhD student at DoSS |
-| 14/11/23| [Krishna Balasubramanian](https://sites.google.com/view/kriznakumar/home) | | A guest from UC Davis|
+| 14/11/23| [Krishna Balasubramanian](https://sites.google.com/view/kriznakumar/home) | | A guest from UC Davis |
 | 21/11/23| [Josh Speagle](https://joshspeagle.com/) | Nested Sampling and its Potential Role in Computational Bayesian Education| Internal speaker |
-| 28/11/23| | | |
-
+| 28/11/23| [Rohan Alexander](https://rohanalexander.com/) | About this preprint: https://arxiv.org/abs/2310.01402 | Internal speaker, Information and DoSS |
+| 05/12/23| [Xin Bing](https://sites.coecis.cornell.edu/xinbing/) |  | Internal speaker |
 
 
 
