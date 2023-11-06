@@ -3,7 +3,7 @@
 
 ### About the seminar series:
 
-Welcome to our casual research seminar organized in the [Department of Statistical Sciences](https://www.statistics.utoronto.ca) at the University of Toronto. Our aim is to explore the diverse research conducted by our faculty, students, and postdocs. Talks usually last 30 to 45 minutes, followed by discussions. We cover current research, overviews of emerging topics, and more. Some pizzas will be offered before the seminar around 12:20pm. 
+Welcome to our casual research seminar organized in the [Department of Statistical Sciences](https://www.statistics.utoronto.ca) at the University of Toronto. Our aim is to explore the diverse research conducted by our faculty, students, and postdocs. Talks usually last around 30 minutes, followed by discussions. We cover current research, overviews of emerging topics, and more. Some pizzas will be offered before the seminar around 12:20pm. 
 
 Seminar organizers: [Austin Brown](https://austindavidbrown.github.io) & [Archer Gong Zhang](https://gozhang.github.io) & [Piotr Zwiernik](https://pzwiernik.github.io/) 
 
