@@ -34,7 +34,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 | 12/12/23| Paolo Onorati | An Extension of the Unified Skew-Normal Family of Distributions and Application to Bayesian Binary Regression | Visiting PDF from Rome |
 | 9/1/24| [Yaoming Zhen](https://sites.google.com/view/yaomingzhen) | Some examples of tensor decompositions | Internal speaker |
 | 16/1/24| [Marlon Moresco](https://www.statistics.utoronto.ca/people/directories/postdoctoral-fellows/marlon-moresco) | Uncertainty Propagation and Dynamic Robust Risk Measures | Internal speaker |
-| 23/1/24| | Likely to be skipped due to room conflict | |
+| 23/1/24|  Likely to be skipped due to room conflict | |
 
 
 
