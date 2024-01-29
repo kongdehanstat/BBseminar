@@ -35,6 +35,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 | 9/1/24| [Yaoming Zhen](https://sites.google.com/view/yaomingzhen) | Some examples of tensor decompositions | Internal speaker |
 | 16/1/24| [Marlon Moresco](https://www.statistics.utoronto.ca/people/directories/postdoctoral-fellows/marlon-moresco) | Uncertainty Propagation and Dynamic Robust Risk Measures | Internal speaker |
 | 23/1/24|  Skipped due to room conflict | |
+| 30/1/24|  Break | |
 
 
 
