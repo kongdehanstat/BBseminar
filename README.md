@@ -36,7 +36,8 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 | 16/1/24| [Marlon Moresco](https://www.statistics.utoronto.ca/people/directories/postdoctoral-fellows/marlon-moresco) | Uncertainty Propagation and Dynamic Robust Risk Measures | Internal speaker |
 | 23/1/24|  Skipped due to room conflict | |
 | 30/1/24|  Break | |
-
+| 6/2/24| [Austin Brown](https://austindavidbrown.github.io) | Error analysis for a parallel Monte Carlo estimator from many short Markov chains | Internal speaker |
+| 13/2/24|  Skipped due to job talk | |
 
 
 ```diff
