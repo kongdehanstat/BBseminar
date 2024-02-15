@@ -38,6 +38,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 | 30/1/24|  Break | |
 | 6/2/24| [Austin Brown](https://austindavidbrown.github.io) | Error analysis for a parallel Monte Carlo estimator from many short Markov chains | Internal speaker |
 | 13/2/24|  Skipped due to job talk | |
+| 20/2/24|  [Jun Young Park](https://junjypark.github.io/) | Spatial-extent inference for neuroimaging data | Internal speaker |
 
 
 ```diff
