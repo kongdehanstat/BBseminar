@@ -39,6 +39,10 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 | 6/2/24| [Austin Brown](https://austindavidbrown.github.io) | Error analysis for a parallel Monte Carlo estimator from many short Markov chains | Internal speaker |
 | 13/2/24|  Skipped due to job talk | |
 | 20/2/24|  [Jun Young Park](https://junjypark.github.io/) | Spatial-extent inference for neuroimaging data | Internal speaker |
+| 27/2/24| [Xin Bing](https://sites.coecis.cornell.edu/xinbing/) | Linear Discriminant Regularized Regression | Internal speaker |
+| 5/3/24| [Leonard Wong](https://tkl-wong.github.io/) | How finance, geometry and transport came together | Internal speaker |
+| 12/3/24| [Sebastian Jaimungal](https://sebastian.statistics.utoronto.ca/) | An Intro to Mean Field Game Theory and Step-Wise Regret | Internal speaker |
+
 
 
 ```diff
