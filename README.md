@@ -44,6 +44,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 | 12/3/24| [Sebastian Jaimungal](https://sebastian.statistics.utoronto.ca/) | An Intro to Mean Field Game Theory and Step-Wise Regret | Internal speaker |
 | 19/3/24|  Skipped due to job talk | |
 | 26/3/24| [David Steinsaltz](https://www.stats.ox.ac.uk/people/david-steinsaltz) | Quasi-stationary Monte Carlo | External speaker invited by [Jeffrey Rosenthal](http://probability.ca/jeff/) |
+| 2/4/24| [Ziteng Cheng](https://www.statistics.utoronto.ca/people/directories/postdoctoral-fellows/ziteng-cheng) | Learning conditional distribution on continuous spaces | Internal speaker |
 
 
 
