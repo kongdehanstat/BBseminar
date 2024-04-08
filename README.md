@@ -24,7 +24,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 | 9/4/24| [Riccardo Passeggeri](https://sites.google.com/site/riccardopasseggeri) | A universal robustification procedure | External speaker invited by [Nancy Reid](https://www.utstat.utoronto.ca/reid/index.html) |
 | 16/4/24| [Thibault Randrianarisoa](https://thibaultrandrianarisoa.netlify.app) | Deep Gaussian Processes | External speaker  |
 | 23/4/24| [Wenlong Mou](https://mouwenlong.github.io) | TBA |   |
-| 30/4/24| [Piotr Zwiernik](https://pzwiernik.github.io) | TBA |   |
+| 30/4/24| [Piotr Zwiernik](https://pzwiernik.github.io) | Entropic covariance models |   |
 
 
 **Past talks**
