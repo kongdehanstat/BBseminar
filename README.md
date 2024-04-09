@@ -21,7 +21,6 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| 9/4/24| [Riccardo Passeggeri](https://sites.google.com/site/riccardopasseggeri) | A universal robustification procedure | External speaker invited by [Nancy Reid](https://www.utstat.utoronto.ca/reid/index.html) |
 | 16/4/24| [Thibault Randrianarisoa](https://thibaultrandrianarisoa.netlify.app) | Deep Gaussian Processes | External speaker  |
 | 23/4/24| [Wenlong Mou](https://mouwenlong.github.io) | TBA |   |
 | 30/4/24| [Piotr Zwiernik](https://pzwiernik.github.io) | Entropic covariance models |   |
@@ -31,6 +30,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
+| 9/4/24| [Riccardo Passeggeri](https://sites.google.com/site/riccardopasseggeri) | A universal robustification procedure | External speaker invited by [Nancy Reid](https://www.utstat.utoronto.ca/reid/index.html) |
 | 2/4/24| [Ziteng Cheng](https://www.statistics.utoronto.ca/people/directories/postdoctoral-fellows/ziteng-cheng) | Learning conditional distribution on continuous spaces | Internal speaker |
 | 26/3/24| Cancelled | |
 | 19/3/24|  Skipped due to job talk | |
