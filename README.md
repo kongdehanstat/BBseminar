@@ -21,7 +21,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| 23/4/24 (11:30am--12:30pm)| [Wenlong Mou](https://mouwenlong.github.io) | On Bellman equations for continuous-time policy evaluation | Internal speaker |
+| 23/4/24 (11:30am-12:30pm)| [Wenlong Mou](https://mouwenlong.github.io) | On Bellman equations for continuous-time policy evaluation | Internal speaker |
 | 30/4/24| [Piotr Zwiernik](https://pzwiernik.github.io) | Entropic covariance models | Internal speaker |
 
 
