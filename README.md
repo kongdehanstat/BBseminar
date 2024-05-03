@@ -21,13 +21,18 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| 30/4/24| [Piotr Zwiernik](https://pzwiernik.github.io) | Entropic covariance models | Internal speaker |
+| 14/5/24| Selvakkadunko Selvaratnam| Applications of robust methods in spatial analysis | Internal speakers |
+| 7/5/24| Michaela Drouillard and Inessa De Angelis| Rebuilding Spotify's audio features + Modelling harassment of female politicians | Internal speakers |
+| 14/5/24| TBD |  |  |
+| 7/5/24| Hengchao Chen| Estimation theory for manifold data analysis | Internal speaker |
+
 
 
 **Past talks**
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
+| 30/4/24| [Piotr Zwiernik](https://pzwiernik.github.io) | Entropic covariance models | Internal speaker |
 | 23/4/24 (11:30am-12:30pm)| [Wenlong Mou](https://mouwenlong.github.io) | On Bellman equations for continuous-time policy evaluation | Internal speaker |
 | 16/4/24| [Thibault Randrianarisoa](https://thibaultrandrianarisoa.netlify.app) | Deep Gaussian Processes | External speaker  |
 | 9/4/24| [Riccardo Passeggeri](https://sites.google.com/site/riccardopasseggeri) | A universal robustification procedure | External speaker invited by [Nancy Reid](https://www.utstat.utoronto.ca/reid/index.html) |
