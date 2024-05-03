@@ -21,10 +21,11 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| 14/5/24| [Selvakkadunko Selvaratnam](https://www.statistics.utoronto.ca/people/directories/all-faculty/selvakkadunko-selvaratnam)| Applications of robust methods in spatial analysis | Internal speaker |
-| 7/5/24| Michaela Drouillard and Inessa De Angelis| Rebuilding Spotify's audio features + Modelling harassment of female politicians | Internal speakers |
-| 14/5/24| TBD |  |  |
 | 7/5/24| [Hengchao Chen](https://sites.google.com/view/hengchao-chen)| Estimation theory for manifold data analysis | Internal speaker |
+| 14/5/24| TBD |  |  |
+| 21/5/24| Michaela Drouillard and Inessa De Angelis| Rebuilding Spotify's audio features + Modelling harassment of female politicians | Internal speakers |
+| 28/5/24| [Selvakkadunko Selvaratnam](https://www.statistics.utoronto.ca/people/directories/all-faculty/selvakkadunko-selvaratnam)| Applications of robust methods in spatial analysis | Internal speaker |
+
 
 
 
