@@ -21,17 +21,16 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| 14/5/24| [Yaoming Zhen](https://sites.google.com/view/yaomingzhen) | Network-based neighborhood regression | Internal speaker |
 | 21/5/24| Michaela Drouillard and Inessa De Angelis| Rebuilding Spotify's audio features + Modelling harassment of female politicians | Internal speakers |
 | 28/5/24| [Selvakkadunko Selvaratnam](https://www.statistics.utoronto.ca/people/directories/all-faculty/selvakkadunko-selvaratnam)| Applications of robust methods in spatial analysis | Internal speaker |
-
-
+| 4/6/24|  Skip due to SSC | |
 
 
 **Past talks**
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
+| 14/5/24| [Yaoming Zhen](https://sites.google.com/view/yaomingzhen) | Network-based neighborhood regression | Internal speaker |
 | 7/5/24| [Hengchao Chen](https://sites.google.com/view/hengchao-chen)| Estimation theory for manifold data analysis | Internal speaker |
 | 30/4/24| [Piotr Zwiernik](https://pzwiernik.github.io) | Entropic covariance models | Internal speaker |
 | 23/4/24 (11:30am-12:30pm)| [Wenlong Mou](https://mouwenlong.github.io) | On Bellman equations for continuous-time policy evaluation | Internal speaker |
