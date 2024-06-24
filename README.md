@@ -19,8 +19,8 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 **Upcoming talks**
 
-| Date | Speaker | Title | Remarks |
-|-|-|-|-|
+| Remarks |
+|-|
 | Summer seminar ends, and we will continue in the Fall! |
 
 
