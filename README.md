@@ -22,7 +22,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
 | 11/6/24| [Nathan Kirk](https://sites.google.com/view/nathankirk/home) | What can machine learning do for quasi-Monte Carlo methods? | External speaker |
-| 18/6/24| Skip |  |  |
+| Summer seminar ends, and we will continue in the Fall! |
 
 
 **Past talks**
