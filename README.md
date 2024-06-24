@@ -21,7 +21,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Remarks |
 |-|
-| Summer seminar ends, and we will continue in the Fall! |
+| The Summer seminar has concluded, and we will resume in the Fall! |
 
 
 **Past talks**
