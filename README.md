@@ -21,8 +21,8 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| 11/9/17| [Biprateep Dey](https://biprateep.de/) | Calibrated Uncertainty Quantification for Physical Sciences | Internal speaker |
-| 11/9/24| [Vianey Leos Barajas](https://www.vleosbarajas.com/) | Statistics Summer Research Clubs (AI for Baseball, Shark Statistics) | Internal speaker |
+| Sep 17 | [Biprateep Dey](https://biprateep.de/) | Calibrated Uncertainty Quantification for Physical Sciences | Internal speaker |
+| Sep 24 | [Vianey Leos Barajas](https://www.vleosbarajas.com/) | Statistics Summer Research Clubs (AI for Baseball, Shark Statistics) | Internal speaker |
 
 <!---
 **Past talks**
