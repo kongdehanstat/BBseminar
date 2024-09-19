@@ -12,7 +12,7 @@ Seminar organizers: [Austin Brown](https://austindavidbrown.github.io) & [Archer
 
 ### Schedule of Talks for 2024/2025
 
-Meetings are on **Tuesdays**, 12:30pm (30 min talk + discussion), room: TBA
+Meetings are on **Tuesdays**, 12:30pm (30 min talk + discussion), room: 9014, Ontario Power Building
 (pizza will be served around 12:20pm)
 
 To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsheets/d/1jehHvf0QCG2Udc-gZsMIl6pLYsxyoAYFPcnJWDQhCUY/edit#gid=0).
@@ -21,17 +21,17 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Sep 17 | [Biprateep Dey](https://biprateep.de/) | Calibrated Uncertainty Quantification for Physical Sciences | Internal speaker |
 | Sep 24 | [Vianey Leos Barajas](https://www.vleosbarajas.com/) | Statistics Summer Research Clubs (AI for Baseball, Shark Statistics) | Internal speaker |
 | Oct 1 | [DSI Research Day](https://datasciences.utoronto.ca/research_day_2024/) | |  |
 | Oct 8 | [Scott Schwartz](https://www.statistics.utoronto.ca/people/directories/all-faculty/scott-schwartz) |  Incorporation of AI chatbots into STA130 | Internal speaker |
 
-<!---
+
+
 **Past talks**
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
--->
+| Sep 17 | [Biprateep Dey](https://biprateep.de/) | Calibrated Uncertainty Quantification for Physical Sciences | Internal speaker |
 
 
 
