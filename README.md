@@ -21,7 +21,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Oct 1 | [DSI Research Day](https://datasciences.utoronto.ca/research_day_2024/) | skip | skip |
+| Oct 1 | [DSI Research Day](https://datasciences.utoronto.ca/research_day_2024/) | Skip | Skip |
 | Oct 8 | [Scott Schwartz](https://www.statistics.utoronto.ca/people/directories/all-faculty/scott-schwartz) |  Incorporation of AI chatbots into STA130 | Internal speaker |
 
 
