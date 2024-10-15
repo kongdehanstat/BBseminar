@@ -21,7 +21,8 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Oct 15 | [Piotr Zwiernik](https://pzwiernik.github.io) |  Property testing in Gaussian graphical models | Internal speaker |
+| Oct 15 | no meeting |   |  |
+| Oct 22 | TBA |   |  |
 
 
 
