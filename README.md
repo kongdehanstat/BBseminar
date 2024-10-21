@@ -21,8 +21,9 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Oct 15 | no meeting |   |  |
-| Oct 22 | TBA |   |  |
+| Oct 22 | [Piotr Zwiernik](https://pzwiernik.github.io) | Property testing in Gaussian graphical models  | Internal Speaker |
+| Oct 29 | [Jun Young Park](https://junjypark.github.io) | What makes good applied statistics research? Some recent case studies from neuroimaging statistics  | Internal Speaker |
+| Nov 5 | [Ziyi Liu](https://www.statistics.utoronto.ca/people/directories/graduate-students/ziyi-liu) | Sequential Probability Assignment with Contexts: Minimax Regret, Contextual Shtarkov Sums, and Contextual Normalized Maximum Likelihood  | Internal Speaker |
 
 
 
@@ -30,6 +31,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
+| Oct 15 | no meeting |   |  |
 | Oct 8 | [Scott Schwartz](https://www.statistics.utoronto.ca/people/directories/all-faculty/scott-schwartz) |  Incorporation of AI chatbots into STA130 | Internal speaker |
 | Oct 1 | [DSI Research Day](https://datasciences.utoronto.ca/research_day_2024/) | Skip | Skip |
 | Sep 24 | [Vianey Leos Barajas](https://www.vleosbarajas.com/) | Statistics Summer Research Clubs (AI for Baseball, Shark Statistics) | Internal speaker |
