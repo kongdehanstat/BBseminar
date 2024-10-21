@@ -21,9 +21,9 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Oct 22 | [Piotr&#160;Zwiernik](https://pzwiernik.github.io) | Property testing in Gaussian graphical models  | Internal&#160;Speaker |
-| Oct 29 | [Jun&#160;Young&#160;Park](https://junjypark.github.io) | What makes good applied statistics research? Some recent case studies from neuroimaging statistics  | Internal&#160;Speaker |
-| Nov 5 | [Ziyi&#160;Liu](https://www.statistics.utoronto.ca/people/directories/graduate-students/ziyi-liu) | Sequential Probability Assignment with Contexts: Minimax Regret, Contextual Shtarkov Sums, and Contextual Normalized Maximum Likelihood  | Internal&#160;Speaker |
+| Oct&#160;22 | [Piotr&#160;Zwiernik](https://pzwiernik.github.io) | Property testing in Gaussian graphical models  | Internal&#160;Speaker |
+| Oct&#160;29 | [Jun&#160;Young&#160;Park](https://junjypark.github.io) | What makes good applied statistics research? Some recent case studies from neuroimaging statistics  | Internal&#160;Speaker |
+| Nov&#160;5 | [Ziyi&#160;Liu](https://www.statistics.utoronto.ca/people/directories/graduate-students/ziyi-liu) | Sequential Probability Assignment with Contexts: Minimax Regret, Contextual Shtarkov Sums, and Contextual Normalized Maximum Likelihood  | Internal&#160;Speaker |
 
 
 
