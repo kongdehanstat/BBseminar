@@ -22,6 +22,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
 | Oct&#160;29 | [Jun&#160;Young&#160;Park](https://junjypark.github.io) | What makes good applied statistics research? Some recent case studies from neuroimaging statistics  | Internal&#160;Speaker |
+| Nov&#160;5 | [Nancy&#160;Reid](https://www.utstat.utoronto.ca/reid/) | Some aspects of inference under model misspecification | Internal&#160;Speaker |
 
 
 
