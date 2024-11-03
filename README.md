@@ -21,8 +21,8 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Oct&#160;29 | [Jun&#160;Young&#160;Park](https://junjypark.github.io) | What makes good applied statistics research? Some recent case studies from neuroimaging statistics  | Internal&#160;Speaker |
 | Nov&#160;5 | [Nancy&#160;Reid](https://www.utstat.utoronto.ca/reid/) | Some aspects of inference under model misspecification | Internal&#160;Speaker |
+| Nov&#160;12 | Skip for [DoSS Postdoc Day](https://www.statistics.utoronto.ca/events/postdoctoral-fellow-day) on Nov 14| | |
 
 
 
@@ -31,6 +31,7 @@ To sign up to give a talk use our [spreadsheet](https://docs.google.com/spreadsh
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
+| Oct&#160;29 | [Jun&#160;Young&#160;Park](https://junjypark.github.io) | What makes good applied statistics research? Some recent case studies from neuroimaging statistics  | Internal&#160;Speaker |
 | Oct&#160;22 | [Piotr&#160;Zwiernik](https://pzwiernik.github.io) | Property testing in Gaussian graphical models  | Internal&#160;Speaker |
 | Oct 15 | no meeting |   |  |
 | Oct 8 | [Scott Schwartz](https://www.statistics.utoronto.ca/people/directories/all-faculty/scott-schwartz) |  Incorporation of AI chatbots into STA130 | Internal speaker |
