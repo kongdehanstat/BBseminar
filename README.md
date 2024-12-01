@@ -21,7 +21,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Dec&#160;3 | [Ruyi&#160;Pan](https://www.statistics.utoronto.ca/people/directories/graduate-students/ruyi-pan) | Improving statistical power of multi-modal association testing via de-variation | Internal&#160;Speaker |
+| Dec&#160;3 | [Ruyi&#160;Pan](https://www.statistics.utoronto.ca/people/directories/graduate-students/ruyi-pan) | Devariation: a robust approach to improve statistical power in high-dimensional multi-view association testing | Internal&#160;Speaker |
 | Dec&#160;10 | [Claire&#160;Yu](https://www.statistics.utoronto.ca/people/directories/staff/claire-x-yu) | Speed up your computation: strategies and platforms | Internal&#160;Speaker |
 
 
