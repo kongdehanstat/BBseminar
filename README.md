@@ -12,8 +12,8 @@ Seminar organizers: [Austin Brown](https://austindavidbrown.github.io) & [Archer
 
 ### Schedule of Talks for 2024/2025
 
-Meetings are on **Tuesdays**, 12:30pm (30 min talk + discussion), room: 9014, Ontario Power Building
-(pizza will be served around 12:20pm)
+Meetings are on **Tuesdays**, 12:30pm (30 min talk + discussion), room: 9014, Ontario Power Building (700 University Avenue).
+Pizza will be served around 12:20pm.
 
 To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreadsheets/d/1jehHvf0QCG2Udc-gZsMIl6pLYsxyoAYFPcnJWDQhCUY/edit#gid=0).
 
