@@ -21,7 +21,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Dec&#160;10 | [Claire&#160;Yu](https://www.statistics.utoronto.ca/people/directories/staff/claire-x-yu) | Speed up your computation: strategies and platforms | Internal&#160;Speaker |
+| Jan&#160;7 | [Jeffrey&#160;Rosenthal](https://probability.ca/jeff/) | [Chess champions, CEOs, streaks, and probabilities](https://probability.ca/jeff/ftpdir/chessstreakpaper.pdf) | Internal&#160;Speaker |
 
 
 
@@ -30,6 +30,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
+| Dec&#160;10 | [Claire&#160;Yu](https://www.statistics.utoronto.ca/people/directories/staff/claire-x-yu) | Speed up your computation: strategies and platforms | Internal&#160;Speaker |
 | Dec&#160;3 | [Ruyi&#160;Pan](https://www.statistics.utoronto.ca/people/directories/graduate-students/ruyi-pan) | Devariation: a robust approach to improve statistical power in high-dimensional multi-view association testing | Internal&#160;Speaker |
 | Nov&#160;26 | [Kevin&#160;McKinnon](https://www.astro.utoronto.ca/contact/directory-all-a-z/name/kevin-mckinnon/) | BP3M: Bayesian Positions, Parallaxes, and Proper Motions derived from the Hubble Space Telescope and Gaia data | Astro postdoc |
 | Nov&#160;19 | [Kathleen&#160;Miao](https://www.kathleenmiao.ca/) | Robust Elicitable Functionals | Internal&#160;Speaker |
