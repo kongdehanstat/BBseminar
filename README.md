@@ -22,7 +22,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
 | Jan&#160;7 | [Jeffrey&#160;Rosenthal](https://probability.ca/jeff/) | [Chess champions, CEOs, streaks, and probabilities](https://probability.ca/jeff/ftpdir/chessstreakpaper.pdf) | Internal&#160;Speaker |
-| Jan&#160;14 | [Sabrina&#160;Sixta](https://www.utstat.utoronto.ca/~sabrina/) | MCMC Common random number simulation: discoveries and mysteries | Internal&#160;Speaker |
+| Jan&#160;14 | [Sabrina&#160;Sixta](https://www.utstat.utoronto.ca/~sabrina/) | MCMC common random number simulation: discoveries and mysteries | Internal&#160;Speaker |
 
 
 
