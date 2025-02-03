@@ -21,10 +21,8 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Jan&#160;21 | Skip for job talk | | |
-| Jan&#160;28 | Skip for job talk | | |
 | Feb&#160;4 | Skip for job talk | | |
-
+| Feb&#160;11 | [Ichiro&#160;Hashimoto](https://ichiro-h.github.io/) | [Universality of Benign Overfitting in Binary Linear Classification](https://arxiv.org/abs/2501.10538) | Internal&#160;Speaker |
 
 
 
@@ -32,6 +30,8 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
+| Jan&#160;28 | Skip for job talk | | |
+| Jan&#160;21 | Skip for job talk | | |
 | Jan&#160;14 | [Sabrina&#160;Sixta](https://www.utstat.utoronto.ca/~sabrina/) | MCMC common random number simulation: discoveries and mysteries | Internal&#160;Speaker |
 | Jan&#160;7 | [Jeffrey&#160;Rosenthal](https://probability.ca/jeff/) | [Chess champions, CEOs, streaks, and probabilities](https://probability.ca/jeff/ftpdir/chessstreakpaper.pdf) | Internal&#160;Speaker |
 | Dec&#160;10 | [Claire&#160;Yu](https://www.statistics.utoronto.ca/people/directories/staff/claire-x-yu) | Speed up your computation: strategies and platforms | Internal&#160;Speaker |
