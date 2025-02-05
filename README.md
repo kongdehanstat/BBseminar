@@ -21,8 +21,11 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Feb&#160;4 | Skip for job talk | | |
-| Feb&#160;11 | [Ichiro&#160;Hashimoto](https://ichiro-h.github.io/) | [Universality of Benign Overfitting in Binary Linear Classification](https://arxiv.org/abs/2501.10538) | Internal&#160;Speaker |
+| Feb&#160;11 | Skip for UTSC search job talk | | |
+
+<!---
+| TBD | [Ichiro&#160;Hashimoto](https://ichiro-h.github.io/) | [Universality of Benign Overfitting in Binary Linear Classification](https://arxiv.org/abs/2501.10538) | Internal&#160;Speaker |
+-->
 
 
 
@@ -30,6 +33,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
+| Feb&#160;4 | Skip for job talk | | |
 | Jan&#160;28 | Skip for job talk | | |
 | Jan&#160;21 | Skip for job talk | | |
 | Jan&#160;14 | [Sabrina&#160;Sixta](https://www.utstat.utoronto.ca/~sabrina/) | MCMC common random number simulation: discoveries and mysteries | Internal&#160;Speaker |
