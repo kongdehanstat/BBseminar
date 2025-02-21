@@ -21,7 +21,6 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Feb&#160;18 | Skip for reading week | | |
 | Feb&#160;25 | [Zhijing&#160;Jin](https://zhijing-jin.com/fantasy/about/) | Causal Reasoning with Large Language Models | Incoming Assistant Professor at CS |
 | Mar&#160;4 | Skip for UTSC search job talk | | |
 | Mar&#160;11 | [Ichiro&#160;Hashimoto](https://ichiro-h.github.io/) | [Universality of Benign Overfitting in Binary Linear Classification](https://arxiv.org/abs/2501.10538) | Internal&#160;Speaker |
@@ -33,6 +32,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
+| Feb&#160;18 | Skip for reading week | | |
 | Feb&#160;11 | Skip for UTSC search job talk | | |
 | Feb&#160;4 | Skip for job talk | | |
 | Jan&#160;28 | Skip for job talk | | |
