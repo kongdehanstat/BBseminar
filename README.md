@@ -21,7 +21,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Mar&#160;18 | [Ziyi&#160;Liu](https://www.statistics.utoronto.ca/people/directories/graduate-students/ziyi-liu) | [Sequential Probability Assignment with Contexts: Minimax Regret, Contextual Shtarkov Sums, and Contextual Normalized Maximum Likelihood](https://arxiv.org/abs/2410.03849) | Internal&#160;Speaker |
+| Mar&#160;25 | [Jianhui&#160;Gao](https://sites.google.com/view/jianhuigao) | [Using ML predictions to drive large-scale and robust scientific inquiry](https://arxiv.org/abs/2411.19908) | Internal&#160;Speaker |
 
 
 
@@ -29,6 +29,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
+| Mar&#160;18 | [Ziyi&#160;Liu](https://www.statistics.utoronto.ca/people/directories/graduate-students/ziyi-liu) | [Sequential Probability Assignment with Contexts: Minimax Regret, Contextual Shtarkov Sums, and Contextual Normalized Maximum Likelihood](https://arxiv.org/abs/2410.03849) | Internal&#160;Speaker |
 | Mar&#160;11 | [Ichiro&#160;Hashimoto](https://ichiro-h.github.io/) | [Universality of Benign Overfitting in Binary Linear Classification](https://arxiv.org/abs/2501.10538) | Internal&#160;Speaker |
 | Mar&#160;4 | Skip for UTSC search job talk | | |
 | Feb&#160;25 | [Zhijing&#160;Jin](https://zhijing-jin.com/fantasy/about/) | Causal Reasoning with Large Language Models | Incoming Assistant Professor at CS |
