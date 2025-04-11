@@ -21,7 +21,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Apr&#160;8 | [Aram-Alexandre Pooladian](https://arampooladian.com/) | Wasserstein Flow Matching: Generative modeling over families of distributions | External&#160;Speaker |
+| Apr&#160;15 | Sohee Goo & Ricky Chen | AI-assisted grading | Students supervised by [David Liu](https://www.cs.toronto.edu/~david/) (CS) and [Nathan Taback](https://utstat.toronto.edu/nathan/) |
 
 
 
@@ -29,6 +29,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
+| Apr&#160;8 | [Aram-Alexandre Pooladian](https://arampooladian.com/) | Wasserstein Flow Matching: Generative modeling over families of distributions | External&#160;Speaker |
 | Apr&#160;1 | [Liam&#160;Welsh](https://www.statistics.utoronto.ca/people/directories/graduate-students/liam-welsh) | Multi-Agent Reinforcement Learning for Greenhouse Gas Offset Credit Markets | Internal&#160;Speaker |
 | Mar&#160;25 | [Jianhui&#160;Gao](https://sites.google.com/view/jianhuigao) | [Using ML predictions to drive large-scale and robust scientific inquiry](https://arxiv.org/abs/2411.19908) | Internal&#160;Speaker |
 | Mar&#160;18 | [Ziyi&#160;Liu](https://www.statistics.utoronto.ca/people/directories/graduate-students/ziyi-liu) | [Sequential Probability Assignment with Contexts: Minimax Regret, Contextual Shtarkov Sums, and Contextual Normalized Maximum Likelihood](https://arxiv.org/abs/2410.03849) | Internal&#160;Speaker |
