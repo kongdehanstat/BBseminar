@@ -21,7 +21,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Apr&#160;22 | [Andrey Feuerverger](https://utstat.toronto.edu/andrey/) | Statistical Theory and the Primes (49min talk) | Professor Emeritus at DoSS |
+| Apr&#160;29 | [Andrey Feuerverger](https://utstat.toronto.edu/andrey/) | Statistical Theory and the Primes (49min talk) | Professor Emeritus at DoSS |
 
 
 
