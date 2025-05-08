@@ -21,7 +21,6 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| May&#160;6 | [Yuan Tian](https://www.statistics.utoronto.ca/people/directories/graduate-students/yuan-tian) | [Leveraging multimodal neuroimaging and GWAS for identifying modality-level causal pathways to Alzheimer's disease](https://www.medrxiv.org/content/10.1101/2025.02.27.25322897v1.full) | Internal&#160;Speaker |
 
 
 
@@ -29,6 +28,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
+| May&#160;6 | [Yuan Tian](https://www.statistics.utoronto.ca/people/directories/graduate-students/yuan-tian) | [Leveraging multimodal neuroimaging and GWAS for identifying modality-level causal pathways to Alzheimer's disease](https://www.medrxiv.org/content/10.1101/2025.02.27.25322897v1.full) | Internal&#160;Speaker |
 | Apr&#160;29 | [Andrey Feuerverger](https://utstat.toronto.edu/andrey/) | Statistical Theory and the Primes (49min talk) | Professor Emeritus at DoSS |
 | Apr&#160;22 | Mauro Filomeno | Online Preference Optimization for Diffusion Models with Classifier-Free Exploration | Student supervised by [Qiang Sun](https://sites.google.com/view/qsun/home) |
 | Apr&#160;15 | Sohee Goo & Ricky Chen | AI-assisted grading | Students supervised by [David Liu](https://www.cs.toronto.edu/~david/) (CS) and [Nathan Taback](https://utstat.toronto.edu/nathan/) |
