@@ -20,7 +20,6 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 **Upcoming talks**
 
 | Date | Speaker | Title | Remarks |
-|-|-|-|-|
 
 
 
