@@ -21,7 +21,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Sep 16 |  | Two applications of LLMs in data science | I'll overview two works in progress: 1) \\
+| Sep 16 |  | Two applications of LLMs in data science | I'll overview two works in progress: 1) 
 comparing different LLMs on a specific data science analysis, 2) comparing LLMs on a broad data science analysis|
 | Sep 23 |  | ["The Fast and Curious 2: MCMC in Action" Conference](https://raducraiu.com/the-fast-and-curious-ii-mcmc-in-action/) |   |
 | Sep 30 |  Nancy Reid | [CANSSI Ontario Distinguished Lecture in Statistical Sciences](https://canssiontario.utoronto.ca/event/2025-dlss-nancy-reid/)| |
