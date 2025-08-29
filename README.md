@@ -5,7 +5,7 @@
 
 Welcome to our casual research seminar organized in the [Department of Statistical Sciences](https://www.statistics.utoronto.ca) at the University of Toronto. Our aim is to discuss new ideas with everyone in the department (students, postdocs, visitors, and faculty). Talks usually last around 30 minutes, followed by discussions. We welcome current research, overviews of emerging topics, statistics pedagogy, research methodologies, and more. Some pizzas will be offered before the seminar around 12:20pm. 
 
-Seminar organizers: [Christopher Blier-Wong](https://chrisbw.ca/) & [Biprateep Dey](https://biprateep.de/) & [Dehan Kong](https://sites.google.com/site/kongdehanstat/) 
+Seminar organizers: [Christopher Blier-Wong](https://chrisbw.ca/) & [Biprateep Dey](https://biprateep.de/) & [Dehan Kong](https://sites.google.com/site/kongdehanstat/) & [Kathleen Miao](https://www.kathleenmiao.ca/) & [Chao Wang](https://www.utm.utoronto.ca/math-cs-stats/people/chao-wang) 
 
 ***
 
@@ -21,7 +21,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-
+| Sep 16 |  | Two applications of LLMs in data science | I'll overview two works in progress: 1) comparing different LLMs on a specific data science analysis, 2) comparing LLMs on a broad data science analysis|
 
 **Past talks**
 
