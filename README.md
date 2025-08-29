@@ -22,6 +22,9 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
 | Sep&#160; 16 |  | Two applications of LLMs in data science | I'll overview two works in progress: 1) comparing different LLMs on a specific data science analysis, 2) comparing LLMs on a broad data science analysis|
+| Sep&#160; 23 |  | "The Fast and Curious 2: MCMC in Action" Conference (https://raducraiu.com/the-fast-and-curious-ii-mcmc-in-action/) | |
+| Sep&#160; 30 |  | Two applications of LLMs in data science | I'll overview two works in progress: 1) comparing different LLMs on a specific data science analysis, 2) comparing LLMs on a broad data science analysis|
+| Oct &#160; 07 |  | Two applications of LLMs in data science | I'll overview two works in progress: 1) comparing different LLMs on a specific data science analysis, 2) comparing LLMs on a broad data science analysis|
 
 **Past talks**
 
