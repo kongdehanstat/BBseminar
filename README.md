@@ -5,7 +5,7 @@
 
 Welcome to our casual research seminar organized in the [Department of Statistical Sciences](https://www.statistics.utoronto.ca) at the University of Toronto. Our aim is to discuss new ideas with everyone in the department (students, postdocs, visitors, and faculty). Talks usually last around 30 minutes, followed by discussions. We welcome current research, overviews of emerging topics, statistics pedagogy, research methodologies, and more. Some pizzas will be offered before the seminar around 12:20pm. 
 
-Seminar organizers: [Christopher Blier-Wong](https://austindavidbrown.github.io) & [Archer Gong Zhang](https://gozhang.github.io) & [Piotr Zwiernik](https://pzwiernik.github.io/) 
+Seminar organizers: [Christopher Blier-Wong](https://chrisbw.ca/) & [Archer Gong Zhang](https://gozhang.github.io) & [Piotr Zwiernik](https://pzwiernik.github.io/) 
 
 ***
 
