@@ -21,7 +21,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
-| Sep 16 | Rohan Alexander | Two applications of LLMs in data science |  Overview of two works in progress: 1) comparing different LLMs on a specific data science analysis, 2) comparing LLMs on a broad data science analysis|
+| Sep 16 | [Rohan Alexander](https://rohanalexander.com/) | Two applications of LLMs in data science |  Overview of two works in progress: 1) comparing different LLMs on a specific data science analysis, 2) comparing LLMs on a broad data science analysis|
 | Sep 23 | 	no meeting |  |   |
 | Sep 30 |  	no meeting | | |
 | Oct 07 | Liam Welsh | [Intro to Optimal Execution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4307177)| A broad and approachable introduction to limit-order books and trade execution in financial markets, based off this paper|
