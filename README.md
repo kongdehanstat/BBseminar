@@ -30,7 +30,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Oct 28 |  	To be added | | |
 | Nov 04 |  	To be added | | |
 | Nov 11 |  	To be added | | |
-| Nov 18 |  	[Konstantinos Christopher Tsiolis](https://kctsiolis.github.io/) |High-Dimensional Learning Dynamics: Recent Progress and Open Problems | Recent theoretical studies of stochastic gradient descent (SGD) training of linear models and neural networks on high-dimensional problems|
+| Nov 18 |  	[Konstantinos Christopher Tsiolis](https://kctsiolis.github.io/) |High-Dimensional Learning Dynamics: Recent Progress and Open Problems | Present recent theoretical studies of stochastic gradient descent (SGD) training of linear models and neural networks on high-dimensional problems|
 | Nov 25 |  	[Chris J. Maddison](https://www.cs.toronto.edu/~cmaddis/) | Scaling Laws - An Opportunity for Statisticians | Present some of the empirical developments in the scaling behaviour of large language model training and propose that this is a rich set of problems for statisticians to consider |
 | Dec 02 |  To be added |  |  |
 | Dec 09 |  	To be added | | |
