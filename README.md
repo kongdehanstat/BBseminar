@@ -10,7 +10,7 @@ Seminar organizers: [Christopher Blier-Wong](https://chrisbw.ca/) & [Biprateep D
 ***
 
 
-### Schedule of Talks for 2024/2025
+### Schedule of Talks for 2025/2026
 
 Meetings are on **Tuesdays**, 12:30pm (30 min talk + discussion), room: 9014, Ontario Power Building (700 University Avenue).
 Pizza will be served around 12:20pm.
