@@ -24,7 +24,21 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Sep 16 | [Rohan Alexander](https://rohanalexander.com/) | Two applications of LLMs in data science |  Overview of two works in progress: 1) comparing different LLMs on a specific data science analysis, 2) comparing LLMs on a broad data science analysis|
 | Sep 23 | 	no meeting |  |   |
 | Sep 30 |  	no meeting | | |
-| Oct 07 | Liam Welsh | [Intro to Optimal Execution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4307177)| A broad and approachable introduction to limit-order books and trade execution in financial markets, based off this paper|
+| Oct 07 | [Liam Welsh](https://www.statistics.utoronto.ca/people/directories/graduate-students/liam-welsh) | [Intro to Optimal Execution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4307177)| A broad and approachable introduction to limit-order books and trade execution in financial markets, based off this paper|
+| Oct 14 |  	To be added | | |
+| Oct 21 |  	To be added | | |
+| Oct 28 |  	To be added | | |
+| Nov 04 |  	To be added | | |
+| Nov 11 |  	To be added | | |
+| Nov 18 |  	[KC Tsiolis](https://kctsiolis.github.io/) |High-Dimensional Learning Dynamics: Recent Progress and Open Problems | Recent theoretical studies of stochastic gradient descent (SGD) training of linear models and neural networks on high-dimensional problems|
+| Nov 25 |  	[Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) | Scaling Laws - An Opportunity for Statisticians | Present some of the empirical developments in the scaling behaviour of large language model training and propose that this is a rich set of problems for statisticians to consider |
+| Dec 02 |  To be added |  |  |
+| Dec 09 |  	To be added | | |
+| Dec 16 |  	no meeting| | |
+| Dec 23 |  	no meeting | | |
+| Dec 30 |  	no meeting | | |
+
+
 
 **Past talks**
 
