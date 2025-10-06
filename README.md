@@ -25,14 +25,14 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Sep 23 | 	Skip for "The Fast and Curious 2: MCMC in Action" Conference |  |   |
 | Sep 30 |  	Skip for CANSSI Ontario Distinguished Lecture in Statistical Sciences by Nancy Reid | | |
 | Oct 07 | [Liam Welsh](https://www.statistics.utoronto.ca/people/directories/graduate-students/liam-welsh) | [Intro to Optimal Execution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4307177)| A broad and approachable introduction to limit-order books and trade execution in financial markets, based off this paper|
-| Oct 14 |  	To be added | | |
-| Oct 21 |  	To be added | | |
+| Oct 14 |  	Sam Caetano | Statistics Outreach |Different opportunities to connect with different audiences and how to approach data literacy and civic statistics with young students and/or general audiences |
+| Oct 21 |  	Sabrina Sixta | How to solve it | A summery of Polya's book and a broader discussion on how to solve problems and generate novel results |
 | Oct 28 |  	To be added | | |
 | Nov 04 |  	To be added | | |
-| Nov 11 |  	To be added | | |
+| Nov 11 |  	Ricardo Baptista | | |
 | Nov 18 |  	[Konstantinos Christopher Tsiolis](https://kctsiolis.github.io/) |High-Dimensional Learning Dynamics: Recent Progress and Open Problems | Present recent theoretical studies of stochastic gradient descent (SGD) training of linear models and neural networks on high-dimensional problems|
 | Nov 25 |  	[Chris J. Maddison](https://www.cs.toronto.edu/~cmaddis/) | Scaling Laws - An Opportunity for Statisticians | Present some of the empirical developments in the scaling behaviour of large language model training and propose that this is a rich set of problems for statisticians to consider |
-| Dec 02 |  To be added |  |  |
+| Dec 02 | [Mehdi Molkaraie](https://www.statistics.utoronto.ca/people/directories/all-faculty/mehdi-molkaraie) | [Graphical Models and Transformations](https://arxiv.org/abs/2208.05333) |  |
 | Dec 09 |  	To be added | | |
 | Dec 16 |  	HOLIDAY BREAK| | |
 | Dec 23 |  	HOLIDAY BREAK | | |
