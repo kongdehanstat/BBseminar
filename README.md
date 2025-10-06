@@ -25,9 +25,9 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Sep 23 | 	Skip for "The Fast and Curious 2: MCMC in Action" Conference |  |   |
 | Sep 30 |  	Skip for CANSSI Ontario Distinguished Lecture in Statistical Sciences by Nancy Reid | | |
 | Oct 07 | [Liam Welsh](https://www.statistics.utoronto.ca/people/directories/graduate-students/liam-welsh) | [Intro to Optimal Execution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4307177)| A broad and approachable introduction to limit-order books and trade execution in financial markets, based off this paper|
-| Oct 14 |  	Sam Caetano | Statistics Outreach |Different opportunities to connect with different audiences and how to approach data literacy and civic statistics with young students and/or general audiences |
-| Oct 21 |  	Sabrina Sixta | How to solve it | A summery of Polya's book and a broader discussion on how to solve problems and generate novel results |
-| Oct 28 |  	[Marco Antonio Gallegos Herrada](https://marcogallegos34.github.io/) |  Bayesian inference for HMMs  |  I'll  present the work I've developed for Bayesian inference for HMMs under multimodality with an application to ecological time series|
+| Oct 14 |  	[Sam Caetano](https://www.statistics.utoronto.ca/people/directories/all-faculty/samantha-jo-caetano) | Statistics Outreach |Different opportunities to connect with different audiences and how to approach data literacy and civic statistics with young students and/or general audiences |
+| Oct 21 |  	[Sabrina Sixta](https://utstat.utoronto.ca/~sabrina/index.html) | How to Solve It | A summery of Polya's book and a broader discussion on how to solve problems and generate novel results |
+| Oct 28 |  	[Marco Antonio Gallegos Herrada](https://marcogallegos34.github.io/) |  Bayesian Inference for HMMs  |  I'll  present the work I've developed for Bayesian inference for HMMs under multimodality with an application to ecological time series|
 | Nov 04 |  	To be added | | |
 | Nov 11 |  	Ricardo Baptista | | |
 | Nov 18 |  	[Konstantinos Christopher Tsiolis](https://kctsiolis.github.io/) |High-Dimensional Learning Dynamics: Recent Progress and Open Problems | Present recent theoretical studies of stochastic gradient descent (SGD) training of linear models and neural networks on high-dimensional problems|
