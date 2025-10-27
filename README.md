@@ -26,10 +26,10 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Sep 30 |  	Skip for CANSSI Ontario Distinguished Lecture in Statistical Sciences by Nancy Reid | | |
 | Oct 07 | [Liam Welsh](https://www.statistics.utoronto.ca/people/directories/graduate-students/liam-welsh) | [Intro to Optimal Execution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4307177)| A broad and approachable introduction to limit-order books and trade execution in financial markets, based off this paper|
 | Oct 14 |  	[Sam Caetano](https://www.statistics.utoronto.ca/people/directories/all-faculty/samantha-jo-caetano) | Statistics Outreach |Different opportunities to connect with different audiences and how to approach data literacy and civic statistics with young students and/or general audiences |
-| Oct 21 |  	[Sabrina Sixta](https://utstat.utoronto.ca/~sabrina/index.html) | How to Solve It | A summery of Polya's book and a broader discussion on how to solve problems and generate novel results |
+| Oct 21 |  	[Sabrina Sixta](https://utstat.utoronto.ca/~sabrina/index.html) | How to Solve It | A summary of Polya's book and a broader discussion on how to solve problems and generate novel results |
 | Oct 28 |  	READING WEEK BREAK |    | |
-| Nov 04 |  	Thibault Randrianarisoa | | |
-| Nov 11 |  	Ricardo Baptista | | |
+| Nov 04 |  	[Thibault Randrianarisoa](https://thibaultrandrianarisoa.netlify.app/) | Gaussian Variational Predictive Posteriors of Wide NNs Often Resemble the Prior | In wide overparameterized neural networks, using a Gaussian variational posterior to approximate the parameter posterior hinders the predictive posterior’s ability to learn from data|
+| Nov 11 |  	[Ricardo Baptista](https://ricardobaptista.com/) | Data Memorization and the Need for Regularization with Score-Based Diffusion Models | |
 | Nov 18 |  	[Konstantinos Christopher Tsiolis](https://kctsiolis.github.io/) |High-Dimensional Learning Dynamics: Recent Progress and Open Problems | Present recent theoretical studies of stochastic gradient descent (SGD) training of linear models and neural networks on high-dimensional problems|
 | Nov 25 |  	[Chris J. Maddison](https://www.cs.toronto.edu/~cmaddis/) | Scaling Laws - An Opportunity for Statisticians | Present some of the empirical developments in the scaling behaviour of large language model training and propose that this is a rich set of problems for statisticians to consider |
 | Dec 02 | [Mehdi Molkaraie](https://www.statistics.utoronto.ca/people/directories/all-faculty/mehdi-molkaraie) | [Graphical Models and Transformations](https://arxiv.org/abs/2208.05333) |  |
@@ -37,6 +37,10 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Dec 16 |  	HOLIDAY BREAK| | |
 | Dec 23 |  	HOLIDAY BREAK | | |
 | Dec 30 |  	HOLIDAY BREAK | | |
+| Jan 06 |  	[Marco Antonio Gallegos Herrada](https://marcogallegos34.github.io/) | Bayesian Inference for HMMs | Present the work  developed for Bayesian inference for HMMs under multimodality with an application to ecological time series |
+| Jan 13 |  	TBD | | |
+| Jan 20 |  	Room unavailable (MScAC internship expo) | | |
+| Jan 27 |  	TBD | | |   
 
 
 
