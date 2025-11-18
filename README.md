@@ -33,7 +33,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Nov 18 |  	[Konstantinos Christopher Tsiolis](https://kctsiolis.github.io/) |High-Dimensional Learning Dynamics: Recent Progress and Open Problems | Present recent theoretical studies of stochastic gradient descent (SGD) training of linear models and neural networks on high-dimensional problems|
 | Nov 25 |  	[Chris J. Maddison](https://www.cs.toronto.edu/~cmaddis/) | Scaling Laws - An Opportunity for Statisticians | Present some of the empirical developments in the scaling behaviour of large language model training and propose that this is a rich set of problems for statisticians to consider |
 | Dec 02 | [Mehdi Molkaraie](https://www.statistics.utoronto.ca/people/directories/all-faculty/mehdi-molkaraie) | [Graphical Models and Transformations](https://arxiv.org/abs/2208.05333) |  |
-| Dec 09 |  	[Yan Zhang](https://www.statistics.utoronto.ca/people/directories/graduate-students/yan-zhang) | [On a surprising behavior of the likelihood ratio test in non-parametric mixture models](https://arxiv.org/abs/2509.05610) | |
+| Dec 09 |   |  | |
 | Dec 16 |  	HOLIDAY BREAK| | |
 | Dec 23 |  	HOLIDAY BREAK | | |
 | Dec 30 |  	HOLIDAY BREAK | | |
