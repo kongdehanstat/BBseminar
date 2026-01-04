@@ -38,7 +38,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Dec 23 |  	HOLIDAY BREAK | | |
 | Dec 30 |  	HOLIDAY BREAK | | |
 | Jan 06 |  	[Marco Antonio Gallegos Herrada](https://marcogallegos34.github.io/) | Bayesian Inference for HMMs | Present the work  developed for Bayesian inference for HMMs under multimodality with an application to ecological time series |
-| Jan 13 |  	TBD | | |
+| Jan 13 |  	[Morris Greenberg](https://www.statistics.utoronto.ca/people/directories/graduate-students/morris-greenberg) | The Past, Present, and Future of Scrabble Engines | I'll be taking a step back from my usual research to talk about something a bit different: how computers learn to play Scrabble.  |
 | Jan 20 |  	Room unavailable (MScAC internship expo) | | |
 | Jan 27 |  	TBD | | |   
 
