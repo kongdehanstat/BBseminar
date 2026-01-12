@@ -39,10 +39,25 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Dec 30 |  	HOLIDAY BREAK | | |
 | Jan 06 |  	[Marco Antonio Gallegos Herrada](https://marcogallegos34.github.io/) | Bayesian Inference for HMMs | Present the work  developed for Bayesian inference for HMMs under multimodality with an application to ecological time series |
 | Jan 13 |  	[Morris Greenberg](https://www.statistics.utoronto.ca/people/directories/graduate-students/morris-greenberg) | The Past, Present, and Future of Scrabble Engines | I'll be taking a step back from my usual research to talk about something a bit different: how computers learn to play Scrabble.  |
-| Jan 20 |  	Room unavailable (MScAC internship expo) | | |
-| Jan 27 |  	TBD | | |   
-
-
+| Jan 20 |  	Hold for potential job talks | | |
+| Jan 27 |  	Hold for potential job talks | | |   
+| Feb 03 |  	Hold for potential job talks | | |  
+| Feb 10 |  	Hold for potential job talks | | |  
+| Feb 17 |  	Hold for potential job talks | | |  
+| Feb 24 |  	Yan Zhang | | | 
+| Mar 03 |  	Yovna Junglee  | Tropical Cyclones (in the South West Indian Ocean) - Forecasting Trajectories and Rapid Intensification | A discussion on current methods |  
+| Mar 10 |  	Nathalie Moon  | Automated Feedback with MarkUs | |  
+| Mar 17 |  	TBD |  |  |  
+| Mar 24 |  		TBD |  |  |  
+| Mar 31 |  		TBD |  |  |  
+| Apr 07 |  	TBD |  |  |  
+| Apr 14 |  		TBD |  |  |  
+| Apr 21 |  		TBD |  |  |  
+| Apr 28 |  		Hold for potential summer break |  |  |  
+| May 05 |  	Hold for potential summer break |  |  |  
+| May 12 |  	Hold for potential summer break |  |  |  
+| May 19 |  	Hold for potential summer break |  |  |  
+| May 26 |  	Hold for potential summer break |  |  |  
 
 **Past talks**
 
