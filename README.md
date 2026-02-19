@@ -44,7 +44,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Feb 03 |  	Hold for potential job talks | | |  
 | Feb 10 |  	Hold for potential job talks | | |  
 | Feb 17 |  	Hold for potential job talks | | |  
-| Feb 24 |  	Yan Zhang | | | 
+| Feb 24 |  	Yan Zhang | Adaptivity of the NPMLE to finitely discrete mixing distributions in Gaussian/Poisson mixtures | | 
 | Mar 03 |  	Yovna Junglee  | Tropical Cyclones (in the South West Indian Ocean) - Forecasting Trajectories and Rapid Intensification | A discussion on current methods |  
 | Mar 10 |  	Nathalie Moon  | Automated Feedback with MarkUs | |  
 | Mar 17 |  	TBD |  |  |  
