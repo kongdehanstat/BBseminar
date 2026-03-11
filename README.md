@@ -47,7 +47,7 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Feb 24 |  	[Yan Zhang](https://www.statistics.utoronto.ca/people/directories/graduate-students/yan-zhang) | Adaptivity of the NPMLE to finitely discrete mixing distributions in Gaussian/Poisson mixtures | | 
 | Mar 03 |  	Yovna Junglee  | Tropical Cyclones (in the South West Indian Ocean) - Forecasting Trajectories and Rapid Intensification | A discussion on current methods |  
 | Mar 10 |  	Nathalie Moon  | Automated Feedback with MarkUs | |  
-| Mar 17 |  	Federico Gatta | Risk Modeling: Nowcasting and Forecasting in Dynamical Environments | two references: [1](https://arxiv.org/abs/2407.06619),  [2](https://arxiv.org/abs/2510.16526) | 
+| Mar 17 |  	Federico Gatta | Risk Modeling: Nowcasting and Forecasting in Dynamical Environments | Two references: [1](https://arxiv.org/abs/2407.06619),  [2](https://arxiv.org/abs/2510.16526) | 
 | Mar 24 |  		[Robert Zimmerman](https://rob-zimmerman.github.io/) | Find the Fox with MCMC |  |  
 | Mar 31 |  		TBD |  |  |  
 | Apr 07 |  	TBD |  |  |  
