@@ -51,8 +51,8 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Mar 24 |  		[Robert Zimmerman](https://rob-zimmerman.github.io/) | Find the Fox with MCMC |  |  
 | Mar 31 |  		TBD |  |  |  
 | Apr 07 |  	TBD |  |  |  
-| Apr 14 |  		TBD |  |  |  
-| Apr 21 |  		TBD |  |  |  
+| Apr 14 |  		Ruixuan Zhao | Causal inference for all: Marginal causal effects for outcomes truncated by death  |  |  
+| Apr 21 |  		Student Research Day |  |  |  
 | Apr 28 |  		Hold for potential summer break |  |  |  
 | May 05 |  	Hold for potential summer break |  |  |  
 | May 12 |  	Hold for potential summer break |  |  |  
