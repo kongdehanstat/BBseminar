@@ -49,8 +49,8 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Mar 10 |  	Nathalie Moon  | Automated Feedback with MarkUs | |  
 | Mar 17 |  	Federico Gatta | Risk Modeling: Nowcasting and Forecasting in Dynamical Environments | Two references: [1](https://arxiv.org/abs/2407.06619),  [2](https://arxiv.org/abs/2510.16526) | 
 | Mar 24 |  		[Robert Zimmerman](https://rob-zimmerman.github.io/) | Find the Fox with MCMC |  |  
-| Mar 31 |  		TBD |  |  |  
-| Apr 07 |  	TBD |  |  |  
+| Mar 31 |  		Special Seminar on March 30, Aram-Alexandre Pooladian, Yale University |  |  |  
+| Apr 07 |   Mei Dong	 | Marginal Causal Effect Estimation with Continuous Instrumental Variables |  |  
 | Apr 14 |  		Ruixuan Zhao | Causal inference for all: Marginal causal effects for outcomes truncated by death  |  |  
 | Apr 21 |  		Student Research Day |  |  |  
 | Apr 28 |  		Hold for potential summer break |  |  |  
