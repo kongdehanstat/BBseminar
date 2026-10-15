@@ -5,7 +5,39 @@
 
 Welcome to our casual research seminar organized in the [Department of Statistical Sciences](https://www.statistics.utoronto.ca) at the University of Toronto. Our aim is to discuss new ideas with everyone in the department (students, postdocs, visitors, and faculty). Talks usually last around 30 minutes, followed by discussions. We welcome current research, overviews of emerging topics, statistics pedagogy, research methodologies, and more. Some pizzas will be offered before the seminar around 12:20pm. 
 
-Seminar organizers: [Christopher Blier-Wong](https://chrisbw.ca/) & [Biprateep Dey](https://biprateep.de/) & [Dehan Kong](https://sites.google.com/site/kongdehanstat/) & [Kathleen Miao](https://www.kathleenmiao.ca/) & [Chao Wang](https://www.utm.utoronto.ca/math-cs-stats/people/chao-wang) 
+Seminar organizers: Yidan Cui & Colin Decker & Guneet Dhillon & Christian Kragh Jespersen & [Dehan Kong](https://sites.google.com/site/kongdehanstat/) & Jen-Chieh Teng
+
+***
+
+
+### Schedule of Talks for 2026/2027
+
+Meetings are on **Tuesdays**, 12:30pm (30 min talk + discussion), room: 9014, Ontario Power Building (700 University Avenue).
+Pizza will be served around 12:20pm.
+
+To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreadsheets/d/1jehHvf0QCG2Udc-gZsMIl6pLYsxyoAYFPcnJWDQhCUY/edit#gid=0).
+
+**Upcoming talks**
+
+| Date | Speaker | Title | Remarks |
+|-|-|-|-|
+| Sep 15 | Andrey Feuerverger | Randomness and the primes (The story of a book) | |
+| Sep 22 | Colin Decker | Functional Change point detection in high-dimension | |
+| Sep 29 | [CANSSI Ontario Distinguished Lecture: Daniela Witten](https://canssiontario.utoronto.ca/event/2026-dlss-daniela-witten/) | | Regular seminar schedule to confirm |
+| Oct 06 | Rohan Alexander | TBA | Spreadsheet also labels this row as Daniela Witten's Distinguished Lecture; please confirm |
+| Oct 13 | Christian Kragh Jespersen | Extreme Value Statistics in the Early Universe | |
+| Oct 20 | Yahang Qi | CLAIM-FUSE: causal discovery with heterogeneous and uncertain knowledge | |
+| Oct 27 | Josh Speagle | AI crash course? (Follow-up to Rohan) | Tentative title |
+| Nov 03 | Sabrina Sixta | Pushforward Wasserstein distance | |
+| Nov 10 | Chanju Park | TBA | |
+| Nov 17 | | | |
+| Nov 24 | | | |
+| Dec 01 | | | |
+| Dec 08 | | | |
+| Dec 15 | HOLIDAY BREAK | | |
+| Dec 22 | HOLIDAY BREAK | | |
+| Dec 30 | HOLIDAY BREAK | | Date in signup sheet falls on a Wednesday; please confirm |
+| Jan 19 | Room 9014 unavailable | | Alternative location or cancellation to confirm |
 
 ***
 
@@ -17,7 +49,7 @@ Pizza will be served around 12:20pm.
 
 To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreadsheets/d/1jehHvf0QCG2Udc-gZsMIl6pLYsxyoAYFPcnJWDQhCUY/edit#gid=0).
 
-**Upcoming talks**
+**Talks (2025–2026)**
 
 | Date | Speaker | Title | Remarks |
 |-|-|-|-|
@@ -94,9 +126,3 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Oct 1 | [DSI Research Day](https://datasciences.utoronto.ca/research_day_2024/) | Skip | Skip |
 | Sep 24 | [Vianey Leos Barajas](https://www.vleosbarajas.com/) | Statistics Summer Research Clubs (AI for Baseball, Shark Statistics) | Internal speaker |
 | Sep 17 | [Biprateep Dey](https://biprateep.de/) | Calibrated Uncertainty Quantification for Physical Sciences | Internal speaker |
-
-
-
-```diff
-- We would like to acknowledge funding from the Department of Statistical Sciences. 
-```
