@@ -23,8 +23,8 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 |-|-|-|-|
 | Sep 15 | Andrey Feuerverger | Randomness and the primes (The story of a book) | |
 | Sep 22 | Colin Decker | Functional Change point detection in high-dimension | |
-| Sep 29 | [CANSSI Ontario Distinguished Lecture: Daniela Witten](https://canssiontario.utoronto.ca/event/2026-dlss-daniela-witten/) | | Regular seminar schedule to confirm |
-| Oct 06 | Rohan Alexander | TBA | Spreadsheet also labels this row as Daniela Witten's Distinguished Lecture; please confirm |
+| Sep 29 | [CANSSI Ontario Distinguished Lecture: Daniela Witten](https://canssiontario.utoronto.ca/event/2026-dlss-daniela-witten/) | | |
+| Oct 06 | Rohan Alexander | Iterated creation, grading, and revision of data science projects by language models | |
 | Oct 13 | Christian Kragh Jespersen | Extreme Value Statistics in the Early Universe | |
 | Oct 20 | Yahang Qi | CLAIM-FUSE: causal discovery with heterogeneous and uncertain knowledge | |
 | Oct 27 | Josh Speagle | AI crash course? (Follow-up to Rohan) | Tentative title |
