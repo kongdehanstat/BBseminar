@@ -29,11 +29,11 @@ To sign up to give a talk, use our [spreadsheet](https://docs.google.com/spreads
 | Oct 20 | Yahang Qi | CLAIM-FUSE: causal discovery with heterogeneous and uncertain knowledge | |
 | Oct 27 | Josh Speagle | AI crash course? (Follow-up to Rohan) | Tentative title |
 | Nov 03 | Sabrina Sixta | Pushforward Wasserstein distance | |
-| Nov 10 | Chanju Park | TBA | |
+| Nov 10 | Chanju Park | Neural networks as a disordered system| |
 | Nov 17 | | | |
-| Nov 24 | | | |
-| Dec 01 | | | |
-| Dec 08 | | | |
+| Nov 24 |Yifan Li |The Ambiguity Operator: A Directional View of Distributional Uncertainty | |
+| Dec 01 | Tianyi Pan|Distributed Lag Non-Linear Models with Application in Air Pollution Epidemiology | |
+| Dec 08 | Nathan Taback| AI Crash course - agentic coding tools (follow-up to Josh)| |
 | Dec 15 | HOLIDAY BREAK | | |
 | Dec 22 | HOLIDAY BREAK | | |
 | Dec 30 | HOLIDAY BREAK | | Date in signup sheet falls on a Wednesday; please confirm |
